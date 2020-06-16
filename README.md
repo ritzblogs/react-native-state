@@ -5,7 +5,7 @@
 
 ## Install at local
 Open Terminal, then type command:  
-> git clone  https://github.com/ritzblogs/# react-native-state.git
+> git clone  https://github.com/ritzblogs/react-native-state.git
 
 Go to project folder :
 > cd react-native-state
