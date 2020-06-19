@@ -3,6 +3,8 @@
 ![demo](https://github.com/ritzblogs/react-native-state/blob/master/state-output1.jpg)  
 ![demo](https://github.com/ritzblogs/react-native-state/blob/master/state-output2.jpg)  
 
+Find the detailed description -https://abodeofmystories.blogspot.com/2020/05/state-in-react-native.html
+
 ## Install at local
 Open Terminal, then type command:  
 > git clone  https://github.com/ritzblogs/react-native-state.git
